@@ -1,4 +1,10 @@
-exabgp-thoughts
-===============
+# exabgp thoughts
 
-some thoughts and notes i've collected on exabgp so far
+## readme
+
+some thoughts and notes I've collected on exabgp so far
+
+*	[Blogs](BLOGS.md)
+*	[Lab Design](DESIGN.md)
+*	[Presentations](PRESENTATIONS.md)
+*	[Products Needed](PRODUCTS.md)
